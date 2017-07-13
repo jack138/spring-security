@@ -1,0 +1,11 @@
+ Authentication token = new UsernamePasswordAuthenticationToken(name, password);
+ 
+ 通过上面的对象可以创建存储用户名、密码的对象
+ 
+ 然后管理这个对象后补全对象
+ 
+***
+还有有前端的标签可以做一些业务处理。
+可以与http://www.thymeleaf.org模板结合使用。
+ 
+ 
